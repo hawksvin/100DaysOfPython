@@ -9,8 +9,7 @@ This repository contains my Python learning materials. It includes tutorials, ex
 ## Getting Started
 To get started with this repository, clone it to your local machine using the following command:
 
-git clone https://github.com/your-username/python-learning.git
-
+git clone https://github.com/hawksvin/100DaysOfPython.git
 
 Once you have cloned the repository, you can open it in your favorite text editor or IDE. To run the code, you can use the Python interpreter or a Python development environment.
 ## Contributing
